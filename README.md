@@ -11,6 +11,15 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 
 - ⚡ Fun fact: ...
 -->
+
+```
+  const reaginTurner = {
+  pronouns: "she" | "her/hers",
+  code: [Javascript, HTML, CSS],
+  tools: [Node.js, MongoDB, React, Bootstrap, Materialize, Express.js, Express-sessions, SQL, MySQL2, Sequelize, Jquery, Handlebars],
+  architecture: [MVC, ORM, OOP]
+  }
+  ```
