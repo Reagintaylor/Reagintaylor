@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![Header](/img/header.gif "Header")](https://reagintaylor.github.io/Reagins-Web/)
 
 # Hi!  <img src=https://raw.githubusercontent.com/Reagintaylor/MartinHeinz/master/wave.gif width="30px"> 
-You can find me on [LinkedIn](https://www.linkedin.com/in/reagin-turner-01068b16b/)
+You can find me on [LinkedIn](https://www.linkedin.com/in/reagin-turner-01068b16b/) or [email me](mailto:rturnerafteragne@gmail.com
 
 
 ## Welcome to my github where you can find my projects and a little bit about me! 
